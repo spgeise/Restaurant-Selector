@@ -6,7 +6,7 @@ class RestaurantList:
 
     csi_lat = '27.320079'
     csi_lng = '-82.445405'
-    api_key = 'key=AIzaSyDn8AOP3ZgLA9WpdoEbg-qqUeWGyQEVaWM'
+    api_key = 'key=************'
     url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?"
     radius = '&rankby=distance'
     type = '&type=restaurant'
